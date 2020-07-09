@@ -1,16 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Shinigami aka Shini</h1>
+<h3 align="center">I'm a Frontend Developer working at <a href="https://www.adsoul.com" target="_blank">adSoul GmbH</a> since May 2019</h3>
 
-<!--
-**Shinigami92/Shinigami92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm mainly working on [@prettier/plugin-pug](https://github.com/prettier/plugin-pug)
+  <!-- - 🌱 I’m currently learning ... -->
+- 👯 I’m co-maintainer and collaborating on [HTMLHint](https://github.com/htmlhint/HTMLHint)
+  <!-- - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about help to migrate your project to TypeScript
+- 📫 How to reach me: [@Shini_92](https://twitter.com/Shini_92)
+  <!-- - 😄 Pronouns: ... -->
+  <!-- - ⚡ Fun fact: ... -->
