@@ -10,3 +10,14 @@
 - 📫 How to reach me: [@Shini_92](https://twitter.com/Shini_92)
   <!-- - 😄 Pronouns: ... -->
   <!-- - ⚡ Fun fact: ... -->
+
+Projects I've participated in:
+
+| Project                                                       | What                                                |
+| ------------------------------------------------------------- | --------------------------------------------------- |
+| [node-pg-migrate](https://github.com/salsita/node-pg-migrate) | Fully migrated to TS                                |
+| [vuetify](https://github.com/vuetifyjs/vuetify)               | Add some functionality here and there               |
+| [vue-gtm](https://github.com/mib200/vue-gtm)                  | Co-Maintainer (potentially becoming new Maintainer) |
+| [poolifier](https://github.com/pioardi/poolifier)             | Added TS declarations                               |
+| [linter](https://github.com/linterjs/core)                    | Co-Maintainer side-project                          |
+| [HTMLHint](https://github.com/htmlhint/HTMLHint)              | Co-Maintainer (in the past)                         |
