@@ -3,7 +3,7 @@
 
 - 🔭 I'm mainly working on [@prettier/plugin-pug](https://github.com/prettier/plugin-pug)
   <!-- - 🌱 I'm currently learning ... -->
-  <!-- - 👯 I'm co-maintainer and collaborating on [HTMLHint](https://github.com/htmlhint/HTMLHint) -->
+  <!-- - 👯 I'm co-maintainer and collaborating on [poolifier](https://github.com/pioardi/poolifier) -->
   <!-- - 🤔 I'm looking for help with ... -->
 - 🔍 I'm currently looking to help linting tools to grow
 - 💬 Ask me about help to migrate your project to TypeScript
@@ -13,12 +13,14 @@
 
 Projects I've participated in:
 
-| Project                                                                                                        | What                                                                                                  |
-| -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| [node-pg-migrate](https://github.com/salsita/node-pg-migrate/pulls?q=is%3Apr+author%3AShinigami92+is%3Aclosed) | Fully migrated to TS                                                                                  |
-| [vuetify](https://github.com/vuetifyjs/vuetify/pulls?q=is%3Apr+author%3AShinigami92+is%3Amerged+)              | Add some functionality here and there                                                                 |
-| [vue-gtm](https://github.com/mib200/vue-gtm)                                                                   | Co-Maintainer (potentially becoming new Maintainer)                                                   |
-| [poolifier](https://github.com/pioardi/poolifier/pull/48)                                                      | Co-Maintainer (TS support and Cluster) declarations                                                   |
-| [linter](https://github.com/linterjs/core)                                                                     | Co-Maintainer side-project                                                                            |
-| [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/pulls?q=is%3Apr+author%3AShinigami92+)    | Some DefinitelyTyped PRs from me                                                                      |
-| [HTMLHint](https://github.com/htmlhint/HTMLHint)                                                               | Co-Maintainer (in the [past](https://github.com/htmlhint/HTMLHint/issues/356#issuecomment-661714995)) |
+| Project                                                                                                     | What                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| [@prettier/plugin-pug](https://github.com/prettier/plugin-pug)                                              | Author & Maintainer                                                                                   |
+| [vite-ts-nameof](https://github.com/Shinigami92/vite-ts-nameof)                                             | Author & Maintainer                                                                                   |
+| [vue-gtm](https://github.com/mib200/vue-gtm)                                                                | Co-Maintainer (potentially becoming new Maintainer)                                                   |
+| [vuetify](https://github.com/vuetifyjs/vuetify/pulls?q=is%3Apr+author%3AShinigami92+is%3Amerged+)           | Add some functionality here and there                                                                 |
+| [poolifier](https://github.com/pioardi/poolifier)                                                           | Co-Maintainer (TS support and Cluster Pool)                                                           |
+| [node-pg-migrate](https://github.com/salsita/node-pg-migrate/pulls?q=author%3AShinigami92)                  | Fully migrated to TS                                                                                  |
+| [linter](https://github.com/linterjs/core)                                                                  | Co-Maintainer side-project                                                                            |
+| [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/pulls?q=is%3Apr+author%3AShinigami92+) | Some DefinitelyTyped PRs from me                                                                      |
+| [HTMLHint](https://github.com/htmlhint/HTMLHint)                                                            | Co-Maintainer (in the [past](https://github.com/htmlhint/HTMLHint/issues/356#issuecomment-661714995)) |
