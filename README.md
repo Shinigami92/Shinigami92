@@ -35,12 +35,12 @@ Projects I've participated in:
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/Shinigami92/vite-ts-nameof" target="_blank">vite-ts-nameof</a>
+        <a href="https://github.com/Shinigami92/vite-plugin-ts-nameof" target="_blank">vite-plugin-ts-nameof</a>
       </td>
       <td>Author & Maintainer</td>
       <td>
-        <a href="https://www.npmjs.com/package/vite-ts-nameof" target="_blank">
-          <img alt="NPM package" src="https://img.shields.io/npm/v/vite-ts-nameof.svg?style=flat-square">
+        <a href="https://www.npmjs.com/package/vite-plugin-ts-nameof" target="_blank">
+          <img alt="NPM package" src="https://img.shields.io/npm/v/vite-plugin-ts-nameof.svg?style=flat-square">
         </a>
       </td>
     </tr>
@@ -118,4 +118,4 @@ Projects I've participated in:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Shinigami92&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Shinigami's GitHub Stats" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinigami92&layout=compact&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prettier&repo=plugin-pug&theme=tokyonight" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shinigami92&repo=vite-ts-nameof&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prettier&repo=plugin-pug&theme=tokyonight" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shinigami92&repo=vite-plugin-ts-nameof&theme=tokyonight" />
