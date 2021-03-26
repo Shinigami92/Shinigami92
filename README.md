@@ -1,9 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Shinigami aka Shini</h1>
 <h3 align="center">I'm a Frontend Developer working at <a href="https://www.adsoul.com" target="_blank">adSoul GmbH</a> since May 2019</h3>
 
-- 🔭 I'm mainly working on [@prettier/plugin-pug](https://github.com/prettier/plugin-pug)
+- 🔭 I'm mainly working on [@prettier/plugin-pug](https://github.com/prettier/plugin-pug) and [eslint-define-config](https://github.com/Shinigami92/eslint-define-config)
+- ⚡ I'm triage member of [Vite](https://github.com/vitejs/vite)
   <!-- - 🌱 I'm currently learning ... -->
-  <!-- - 👯 I'm co-maintainer and collaborating on [poolifier](https://github.com/pioardi/poolifier) -->
+- 👯 I'm co-maintainer and collaborating on [poolifier](https://github.com/pioardi/poolifier)
   <!-- - 🤔 I'm looking for help with ... -->
 - 🔍 I'm currently looking to help linting tools to grow
 - 💬 Ask me about help to migrate your project to TypeScript
@@ -35,6 +36,17 @@ Projects I've participated in:
     </tr>
     <tr>
       <td>
+        <a href="https://github.com/Shinigami92/eslint-define-config" target="_blank">eslint-define-config</a>
+      </td>
+      <td>Author & Maintainer</td>
+      <td>
+        <a href="https://www.npmjs.com/package/Shinigami92/eslint-define-config" target="_blank">
+          <img alt="NPM package" src="https://img.shields.io/npm/v/eslint-define-config.svg?style=flat-square">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://github.com/Shinigami92/vite-plugin-ts-nameof" target="_blank">vite-plugin-ts-nameof</a>
       </td>
       <td>Author & Maintainer</td>
@@ -52,6 +64,17 @@ Projects I've participated in:
       <td>
         <a href="https://www.npmjs.com/package/vue-gtm" target="_blank">
           <img alt="NPM package" src="https://img.shields.io/npm/v/vue-gtm.svg?style=flat-square">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/vitejs/vite" target="_blank">vite</a>
+      </td>
+      <td>Triage member</td>
+      <td>
+        <a href="https://www.npmjs.com/package/vite" target="_blank">
+          <img alt="NPM package" src="https://img.shields.io/npm/v/vite.svg?style=flat-square">
         </a>
       </td>
     </tr>
@@ -81,7 +104,7 @@ Projects I've participated in:
       <td>
         <a href="https://github.com/salsita/node-pg-migrate/pulls?q=author%3AShinigami92" target="_blank">node-pg-migrate</a>
       </td>
-      <td>Fully migrated to TS</td>
+      <td>Fully migrated to TS & Contributor</td>
       <td>
         <a href="https://www.npmjs.com/package/node-pg-migrate" target="_blank">
           <img alt="NPM package" src="https://img.shields.io/npm/v/node-pg-migrate.svg?style=flat-square">
@@ -118,4 +141,4 @@ Projects I've participated in:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Shinigami92&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Shinigami's GitHub Stats" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinigami92&layout=compact&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prettier&repo=plugin-pug&theme=tokyonight" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shinigami92&repo=vite-plugin-ts-nameof&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prettier&repo=plugin-pug&theme=tokyonight" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shinigami92&repo=eslint-define-config&theme=tokyonight" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shinigami92&repo=vite-plugin-ts-nameof&theme=tokyonight" />
