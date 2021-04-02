@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Frontend Developer working at <a href="https://www.adsoul.com" target="_blank">adSoul GmbH</a> since May 2019</h3>
 
 - 🔭 I'm mainly working on [@prettier/plugin-pug](https://github.com/prettier/plugin-pug) and [eslint-define-config](https://github.com/Shinigami92/eslint-define-config)
-- ⚡ I'm triage member of [Vite](https://github.com/vitejs/vite)
+- ⚡ I'm team member of [Vite](https://github.com/vitejs/vite)
   <!-- - 🌱 I'm currently learning ... -->
 - 👯 I'm co-maintainer and collaborating on [poolifier](https://github.com/pioardi/poolifier)
   <!-- - 🤔 I'm looking for help with ... -->
@@ -11,6 +11,8 @@
 - 📫 How to reach me: [@Shini_92](https://twitter.com/Shini_92)
   <!-- - 😄 Pronouns: ... -->
   <!-- - ⚡ Fun fact: ... -->
+- ☕ If you like my work, you can support me with a coffee or beer 😃  
+  [![Donate: PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate?hosted_button_id=L7GY729FBKTZY)
 
 Projects I've participated in:
 
