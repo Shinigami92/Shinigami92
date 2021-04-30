@@ -60,12 +60,35 @@ Projects I've participated in:
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/mib200/vue-gtm" target="_blank">vue-gtm</a>
+        <a href="https://github.com/gtm-support/core" target="_blank">@gtm-support/core</a>
       </td>
-      <td>Co-Maintainer (potentially becoming new Maintainer)</td>
+      <td>Maintainer</td>
       <td>
-        <a href="https://www.npmjs.com/package/vue-gtm" target="_blank">
-          <img alt="NPM package" src="https://img.shields.io/npm/v/vue-gtm.svg?style=flat-square">
+        <a href="https://www.npmjs.com/package/@gtm-support/core" target="_blank">
+          <img alt="NPM package" src="https://img.shields.io/npm/v/@gtm-support/core.svg?style=flat-square">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/gtm-support/vue-gtm" target="_blank">@gtm-support/vue-gtm</a>
+        (<i>previously</i> <a href="https://github.com/mib200/vue-gtm" target="_blank">vue-gtm</a>)
+      </td>
+      <td>Maintainer</td>
+      <td>
+        <a href="https://www.npmjs.com/package/@gtm-support/vue-gtm" target="_blank">
+          <img alt="NPM package" src="https://img.shields.io/npm/v/@gtm-support/vue-gtm.svg?style=flat-square">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/gtm-support/vue-gtm/tree/vue2-gtm" target="_blank">@gtm-support/vue2-gtm</a>
+      </td>
+      <td>Maintainer</td>
+      <td>
+        <a href="https://www.npmjs.com/package/@gtm-support/vue2-gtm" target="_blank">
+          <img alt="NPM package" src="https://img.shields.io/npm/v/@gtm-support/vue2-gtm.svg?style=flat-square">
         </a>
       </td>
     </tr>
