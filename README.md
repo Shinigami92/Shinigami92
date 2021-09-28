@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Shinigami aka Shini</h1>
 <h3 align="center">I'm a Frontend Developer working at <a href="https://www.adsoul.com" target="_blank">adSoul GmbH</a> since May 2019</h3>
 
-- 🔭 I'm mainly working on [@prettier/plugin-pug](https://github.com/prettier/plugin-pug) and [eslint-define-config](https://github.com/Shinigami92/eslint-define-config)
+- 🔭 I'm mainly working on [@prettier/plugin-pug](https://github.com/prettier/plugin-pug), [eslint-plugin-vue-pug-sfc](https://github.com/Shinigami92/eslint-plugin-vue-pug-sfc) and [eslint-define-config](https://github.com/Shinigami92/eslint-define-config)
 - ⚡ I'm team member of [Vite](https://github.com/vitejs/vite)
   <!-- - 🌱 I'm currently learning ... -->
-- 👯 I'm co-maintainer and collaborating on [poolifier](https://github.com/pioardi/poolifier)
+  <!-- - 👯 I'm co-maintainer and collaborating on [poolifier](https://github.com/pioardi/poolifier) -->
   <!-- - 🤔 I'm looking for help with ... -->
-- 🔍 I'm currently looking to help linting tools to grow
-- 💬 Ask me about help to migrate your project to TypeScript
+- 🔍 I'm currently helping the Vite, Vue and Pug ecosystems to grow
+  <!-- - 💬 Ask me about help to migrate your project to TypeScript -->
 - 📫 How to reach me: [@Shini_92](https://twitter.com/Shini_92)
   <!-- - 😄 Pronouns: ... -->
   <!-- - ⚡ Fun fact: ... -->
@@ -33,6 +33,17 @@ Projects I've participated in:
       <td>
         <a href="https://www.npmjs.com/package/@prettier/plugin-pug" target="_blank">
           <img alt="NPM package" src="https://img.shields.io/npm/v/@prettier/plugin-pug.svg?style=flat-square">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Shinigami92/eslint-plugin-vue-pug-sfc" target="_blank">eslint-plugin-vue-pug-sfc</a>
+      </td>
+      <td>Author & Maintainer</td>
+      <td>
+        <a href="https://www.npmjs.com/package/eslint-plugin-vue-pug-sfc" target="_blank">
+          <img alt="NPM package" src="https://img.shields.io/npm/v/eslint-plugin-vue-pug-sfc.svg?style=flat-square">
         </a>
       </td>
     </tr>
@@ -136,13 +147,13 @@ Projects I've participated in:
         </a>
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
         <a href="https://github.com/linterjs/core" target="_blank">linter</a>
       </td>
       <td>Co-Maintainer side-project</td>
       <td></td>
-    </tr>
+    </tr> -->
     <tr>
       <td>
         <a href="https://github.com/DefinitelyTyped/DefinitelyTyped/pulls?q=is%3Apr+author%3AShinigami92+" target="_blank">DefinitelyTyped</a>
