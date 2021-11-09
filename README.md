@@ -60,6 +60,17 @@ Projects I've participated in:
     </tr>
     <tr>
       <td>
+        <a href="https://github.com/Shinigami92/vite-plugin-time-reporter" target="_blank">vite-plugin-time-reporter</a>
+      </td>
+      <td>Author & Maintainer</td>
+      <td>
+        <a href="https://www.npmjs.com/package/vite-plugin-time-reporter" target="_blank">
+          <img alt="NPM package" src="https://img.shields.io/npm/v/vite-plugin-time-reporter.svg?style=flat-square">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://github.com/Shinigami92/vite-plugin-ts-nameof" target="_blank">vite-plugin-ts-nameof</a>
       </td>
       <td>Author & Maintainer</td>
