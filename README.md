@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Shinigami aka Shini</h1>
-<h3 align="center">I'm a Frontend Developer working at <a href="https://www.adsoul.com" target="_blank">adSoul GmbH</a> since May 2019</h3>
+<h3 align="center">I'm a Frontend Developer working at <a href="https://www.dermalog.com" target="_blank">DERMALOG Identification Systems GmbH</a> since January 2022</h3>
 
 - 🔭 I'm mainly working on [@prettier/plugin-pug](https://github.com/prettier/plugin-pug), [eslint-plugin-vue-pug-sfc](https://github.com/Shinigami92/eslint-plugin-vue-pug-sfc) and [eslint-define-config](https://github.com/Shinigami92/eslint-define-config)
 - ⚡ I'm team member of [Vite](https://github.com/vitejs/vite)
