@@ -2,7 +2,8 @@
 <h3 align="center">I'm a Frontend Developer working at <a href="https://www.dermalog.com" target="_blank">DERMALOG Identification Systems GmbH</a> since January 2022</h3>
 
 - 🔭 I'm mainly working on [@prettier/plugin-pug](https://github.com/prettier/plugin-pug), [eslint-plugin-vue-pug-sfc](https://github.com/Shinigami92/eslint-plugin-vue-pug-sfc) and [eslint-define-config](https://github.com/Shinigami92/eslint-define-config)
-- ⚡ I'm team member of [Vite](https://github.com/vitejs/vite)
+- 🐼 I'm maintainer of [Faker](https://github.com/faker-js/faker)
+- ⚡ I'm core team member of [Vite](https://github.com/vitejs/vite)
   <!-- - 🌱 I'm currently learning ... -->
   <!-- - 👯 I'm co-maintainer and collaborating on [poolifier](https://github.com/pioardi/poolifier) -->
   <!-- - 🤔 I'm looking for help with ... -->
@@ -118,10 +119,21 @@ Projects I've participated in:
       <td>
         <a href="https://github.com/vitejs/vite" target="_blank">vite</a>
       </td>
-      <td>Triage member</td>
+      <td>Core Team Member</td>
       <td>
         <a href="https://www.npmjs.com/package/vite" target="_blank">
           <img alt="NPM package" src="https://img.shields.io/npm/v/vite.svg?style=flat-square">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/faker-js/faker" target="_blank">@faker-js/faker</a>
+      </td>
+      <td>Maintainer</td>
+      <td>
+        <a href="https://www.npmjs.com/package/@faker-js/faker" target="_blank">
+          <img alt="NPM package" src="https://img.shields.io/npm/v/@faker-js/faker.svg?style=flat-square">
         </a>
       </td>
     </tr>
