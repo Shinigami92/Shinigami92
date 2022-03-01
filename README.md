@@ -54,7 +54,7 @@ Projects I've participated in:
       </td>
       <td>Author & Maintainer</td>
       <td>
-        <a href="https://www.npmjs.com/package/Shinigami92/eslint-define-config" target="_blank">
+        <a href="https://www.npmjs.com/package/eslint-define-config" target="_blank">
           <img alt="NPM package" src="https://img.shields.io/npm/v/eslint-define-config.svg?style=flat-square">
         </a>
       </td>
