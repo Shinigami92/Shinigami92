@@ -9,7 +9,7 @@
   <!-- - 🤔 I'm looking for help with ... -->
 - 🔍 I'm currently helping the Vite, Vue and Pug ecosystems to grow
   <!-- - 💬 Ask me about help to migrate your project to TypeScript -->
-- 📫 How to reach me: [@Shini_92](https://twitter.com/Shini_92)
+- 📫 How to reach me: [@Shini_92](https://twitter.com/Shini_92) | <a rel="me" href="https://mas.to/@Shini92">Mastodon</a>
   <!-- - 😄 Pronouns: ... -->
   <!-- - ⚡ Fun fact: ... -->
 - ☕ If you like my work, you can support me with a coffee or beer 😃  
