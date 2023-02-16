@@ -1,15 +1,19 @@
 <h1 align="center">Hi there 👋, I'm Shinigami aka Shini</h1>
-<h3 align="center">I'm a Frontend Developer working at <a href="https://www.dermalog.com" target="_blank">DERMALOG Identification Systems GmbH</a> since January 2022</h3>
+<h3 align="center">I'm a Developer located in Hamburg</h3>
 
-- 🔭 I'm mainly working on [@prettier/plugin-pug](https://github.com/prettier/plugin-pug), [eslint-plugin-vue-pug-sfc](https://github.com/Shinigami92/eslint-plugin-vue-pug-sfc) and [eslint-define-config](https://github.com/Shinigami92/eslint-define-config)
-- 🐼 I'm maintainer of [Faker](https://github.com/faker-js/faker)
+- 🔭 I'm mainly working on following projects as an Open Source Developer
+  - [Faker](https://github.com/faker-js/faker) as a Maintainer 🐼
+  - [@prettier/plugin-pug](https://github.com/prettier/plugin-pug) as Author
+  - [eslint-define-config](https://github.com/Shinigami92/eslint-define-config) as Author
 - ⚡ I'm core team member of [Vite](https://github.com/vitejs/vite)
   <!-- - 🌱 I'm currently learning ... -->
   <!-- - 👯 I'm co-maintainer and collaborating on [poolifier](https://github.com/pioardi/poolifier) -->
   <!-- - 🤔 I'm looking for help with ... -->
-- 🔍 I'm currently helping the Vite, Vue and Pug ecosystems to grow
+- 🔍 I'm helping the Vite, Vue and Pug ecosystems to grow
   <!-- - 💬 Ask me about help to migrate your project to TypeScript -->
-- 📫 How to reach me: [@Shini_92](https://twitter.com/Shini_92) | <a rel="me" href="https://mas.to/@Shini92">Mastodon</a>
+- 📫 How to reach me
+  - Mastodon (Elk): <a rel="me" href="https://elk.zone/mas.to/@Shini92">@Shini92@mas.to</a>
+  - Twitter: ~~[@Shini_92](https://twitter.com/Shini_92)~~ _I'm not active on Twitter anymore_
   <!-- - 😄 Pronouns: ... -->
   <!-- - ⚡ Fun fact: ... -->
 - ☕ If you like my work, you can support me with a coffee or beer 😃  
