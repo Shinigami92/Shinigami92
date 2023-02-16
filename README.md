@@ -43,23 +43,23 @@ Projects I've participated in:
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/Shinigami92/eslint-plugin-vue-pug-sfc" target="_blank">eslint-plugin-vue-pug-sfc</a>
-      </td>
-      <td>Author & Maintainer</td>
-      <td>
-        <a href="https://www.npmjs.com/package/eslint-plugin-vue-pug-sfc" target="_blank">
-          <img alt="NPM package" src="https://img.shields.io/npm/v/eslint-plugin-vue-pug-sfc.svg?style=flat-square">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <a href="https://github.com/Shinigami92/eslint-define-config" target="_blank">eslint-define-config</a>
       </td>
       <td>Author & Maintainer</td>
       <td>
         <a href="https://www.npmjs.com/package/eslint-define-config" target="_blank">
           <img alt="NPM package" src="https://img.shields.io/npm/v/eslint-define-config.svg?style=flat-square">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Shinigami92/eslint-plugin-vue-pug-sfc" target="_blank">eslint-plugin-vue-pug-sfc</a>
+      </td>
+      <td>Author & Maintainer</td>
+      <td>
+        <a href="https://www.npmjs.com/package/eslint-plugin-vue-pug-sfc" target="_blank">
+          <img alt="NPM package" src="https://img.shields.io/npm/v/eslint-plugin-vue-pug-sfc.svg?style=flat-square">
         </a>
       </td>
     </tr>
