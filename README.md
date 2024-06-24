@@ -6,16 +6,10 @@
   - [@prettier/plugin-pug](https://github.com/prettier/plugin-pug) as Author
   - [eslint-define-config](https://github.com/Shinigami92/eslint-define-config) as Author
 - ⚡ I'm core team member of [Vite](https://github.com/vitejs/vite)
-  <!-- - 🌱 I'm currently learning ... -->
-  <!-- - 👯 I'm co-maintainer and collaborating on [poolifier](https://github.com/pioardi/poolifier) -->
-  <!-- - 🤔 I'm looking for help with ... -->
 - 🔍 I'm helping the Vite, Vue and Pug ecosystems to grow
-  <!-- - 💬 Ask me about help to migrate your project to TypeScript -->
 - 📫 How to reach me
   - Mastodon (Elk): <a rel="me" href="https://elk.zone/mas.to/@Shini92">@Shini92@mas.to</a>
   - Twitter: ~~[@Shini_92](https://twitter.com/Shini_92)~~ _I'm not active on Twitter anymore_
-  <!-- - 😄 Pronouns: ... -->
-  <!-- - ⚡ Fun fact: ... -->
 - ☕ If you like my work, you can support me with a coffee or beer 😃  
   [![Donate: PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate?hosted_button_id=L7GY729FBKTZY)
 
@@ -32,12 +26,34 @@ Projects I've participated in:
   <tbody>
     <tr>
       <td>
+        <a href="https://github.com/faker-js/faker" target="_blank">@faker-js/faker</a>
+      </td>
+      <td>Maintainer</td>
+      <td>
+        <a href="https://www.npmjs.com/package/@faker-js/faker" target="_blank">
+          <img alt="NPM package" src="https://img.shields.io/npm/v/@faker-js/faker.svg?style=flat-square">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://github.com/prettier/plugin-pug" target="_blank">@prettier/plugin-pug</a>
       </td>
       <td>Author & Maintainer</td>
       <td>
         <a href="https://www.npmjs.com/package/@prettier/plugin-pug" target="_blank">
           <img alt="NPM package" src="https://img.shields.io/npm/v/@prettier/plugin-pug.svg?style=flat-square">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/salsita/node-pg-migrate/pulls?q=author%3AShinigami92" target="_blank">node-pg-migrate</a>
+      </td>
+      <td>Maintainer</td>
+      <td>
+        <a href="https://www.npmjs.com/package/node-pg-migrate" target="_blank">
+          <img alt="NPM package" src="https://img.shields.io/npm/v/node-pg-migrate.svg?style=flat-square">
         </a>
       </td>
     </tr>
@@ -132,17 +148,6 @@ Projects I've participated in:
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/faker-js/faker" target="_blank">@faker-js/faker</a>
-      </td>
-      <td>Maintainer</td>
-      <td>
-        <a href="https://www.npmjs.com/package/@faker-js/faker" target="_blank">
-          <img alt="NPM package" src="https://img.shields.io/npm/v/@faker-js/faker.svg?style=flat-square">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <a href="https://github.com/vuetifyjs/vuetify/pulls?q=is%3Apr+author%3AShinigami92+is%3Amerged+" target="_blank">vuetify</a>
       </td>
       <td>Add some functionality here and there</td>
@@ -163,24 +168,6 @@ Projects I've participated in:
         </a>
       </td>
     </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/salsita/node-pg-migrate/pulls?q=author%3AShinigami92" target="_blank">node-pg-migrate</a>
-      </td>
-      <td>Fully migrated to TS & Contributor</td>
-      <td>
-        <a href="https://www.npmjs.com/package/node-pg-migrate" target="_blank">
-          <img alt="NPM package" src="https://img.shields.io/npm/v/node-pg-migrate.svg?style=flat-square">
-        </a>
-      </td>
-    </tr>
-    <!-- <tr>
-      <td>
-        <a href="https://github.com/linterjs/core" target="_blank">linter</a>
-      </td>
-      <td>Co-Maintainer side-project</td>
-      <td></td>
-    </tr> -->
     <tr>
       <td>
         <a href="https://github.com/DefinitelyTyped/DefinitelyTyped/pulls?q=is%3Apr+author%3AShinigami92+" target="_blank">DefinitelyTyped</a>
